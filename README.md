@@ -15,7 +15,7 @@ I created a vector field plot to show different types of damping.
 Project E: Bifurcation Plots,  Baltimore, MD
 Language:Julia, Scope: Dynamical Systems,Timeframe: 2 weeks ,  March 2024
 I created bifurcations to classify critical points in 2D, using continuous and discrete values and seeing in what value r and x, it changes the behavior of the function. I created the 3D model of saddle points and a way to classify critical points in 3D.
-Project E: Convex Polygon Collisions ,  Baltimore, MD
+Project F: Convex Polygon Collisions ,  Baltimore, MD
 Language:Python, Scope: Collision Modeling: ,Timeframe: 3 weeks ,  March- April 2024
 I created an engine that uses objects like circles or polygons to morph or interact with other objects during gameplay. This 2D engine is used to create and modify convex polygon objects. 
 GitHub Repository: https://github.com/Ben-a-casino/ProjectResume.git
