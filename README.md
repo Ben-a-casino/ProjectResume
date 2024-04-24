@@ -18,4 +18,7 @@ I created bifurcations to classify critical points in 2D, using continuous and d
 Project F: Convex Polygon Collisions ,  Baltimore, MD
 Language:Python, Scope: Collision Modeling: ,Timeframe: 3 weeks ,  March- April 2024
 I created an engine that uses objects like circles or polygons to morph or interact with other objects during gameplay. This 2D engine is used to create and modify convex polygon objects. 
+Project G: C02 fluxes, Baltimore, MD
+Language: Python, Scope: C02 precedictive and regression modeling, Timeframe:3 weeks, April 2024
+This project aims to analyze data from the Harvard Forest to understand better the seasonal and yearly variations in CO2 fluxes and to model these fluxes based on various environmental conditions. By utilizing regression models to correlate CO2 flux with environmental variables like radiation, temperature, and wind, the project seeks to predict CO2 fluxes and fill data gaps. The analysis will include tasks such as visualizing data trends, identifying missing data, and evaluating the impact of environmental factors on CO2 dynamics. The insights gained will contribute to the broader scientific understanding of carbon-climate feedback mechanisms and help predict future changes in forest carbon sequestration capabilities.
 GitHub Repository: https://github.com/Ben-a-casino/ProjectResume.git
